@@ -1,5 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Introduction
 
+This application is a learning repository for everything around the new Nextjs version v13.
+If you want to learn more about what this is all about check out https://react.holiday/ !
+
+----- 
 ## Getting Started
 
 First, run the development server:
